@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { Header } from './header'
+import { Header } from './Header.jsx'
 import { PeopleData } from './PeopleData'
 import { LoadingCell } from './LoadingCell';
 import { ErrorComponent } from './ErrorComponent';
